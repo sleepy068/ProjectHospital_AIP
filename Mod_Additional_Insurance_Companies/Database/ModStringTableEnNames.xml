@@ -1,0 +1,17 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_INSURADD_NAMES">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>Sleepy068</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		
+            <GameDBLocalizedString>    <LocID>IN_COM_MEDICARE</LocID>             <Text>Medicare</Text>  </GameDBLocalizedString>
+			<GameDBLocalizedString>    <LocID>IN_COM_RGI</LocID>             	  <Text>Research Grant Institute.</Text>  </GameDBLocalizedString>
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+
